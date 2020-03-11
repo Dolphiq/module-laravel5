@@ -1,5 +1,5 @@
 {
-    "name":"codeception/module-laravel5",
+    "name":"dolphiq/module-laravel5",
     "description":"Codeception module for Laravel 5 framework",
     "keywords":["codeception", "laravel5"],
     "homepage":"http://codeception.com/",
